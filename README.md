@@ -3,7 +3,7 @@ Metagraph -> 3-partite graph -> vector representations -> clustering -> Silhouet
 
 ## Metagraph
 <img width='500px' src='img/big_sample.png'>
-<img width='300px' src='img/mt_sample.png'>
+<img width='400px' src='img/mt_sample.png'>
 
 ## Proxy-graph
 <img width='700px' src='img/flat_mt_sample.png'>
